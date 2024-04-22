@@ -1,0 +1,41 @@
+{
+    "name": "ditateum - wildan",
+    "age": 18,
+    "hobby":[
+        "turu",
+        "bobo",
+        "tidur"
+    ],
+    "github": {
+        "username": "@epep123",
+        "repositories": 1234,
+        "isGDE": true
+    },
+    "articles": [
+        {
+            "id": 1,
+            "title": "free fire",
+            "subtitle": "game terbaik"
+        },
+        {
+            "id": 2,
+            "title": "mobile gendeng",
+            "subtitle": "game analog"
+        },
+        {
+            "id": 3,
+            "title": "subway surf",
+            "subtitle": "game  burik"  
+        }
+    ],
+    "contact": {
+        "1": {
+            "name": "wildan",
+            "contact": "123456"
+        },
+        "2": {
+            "name": "daffa",
+            "contact": "65432"
+        }
+    }
+}
